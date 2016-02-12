@@ -8,7 +8,7 @@ Use the `barista --help` command for more detailed task information.
 ## Installing
 
 ```bash
-$ npm install -g barista
+$ npm install -g barista-framework
 ```
 
 *Note: For a global install of `-g barista`, OSX/Linux users may need to prefix the command with `sudo` or can setup [proper file permissions on OSX for npm](http://www.johnpapa.net/how-to-use-npm-global-without-sudo-on-osx/) to install without `sudo`. *

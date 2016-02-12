@@ -1,10 +1,14 @@
 {
-  "name": "barista",
+  "name": "barista-framework",
   "version": "0.0.1",
-  "description": "barista",
-  "main": "app.js",
+  "preferGlobal": true,
+  "description": "A tool for creating and developing Barista Framework apps",
+  "homepage": "https://github.com/baristalabs/barista-cli",
+  "bin": {
+    "barista": "bin/barista"
+  },
   "author": {
-    "name": "SeanM",
+    "name": "oceanswave",
     "email": "sean.mclellan@baristalabs.com"
   },
   "dependencies": {
