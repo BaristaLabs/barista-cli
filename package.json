@@ -1,6 +1,6 @@
 {
-  "name": "barista-framework",
-  "version": "0.0.1",
+  "name": "barista-cli",
+  "version": "0.0.2",
   "preferGlobal": true,
   "description": "A tool for creating and developing Barista Framework apps",
   "homepage": "https://github.com/baristalabs/barista-cli",
