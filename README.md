@@ -8,10 +8,10 @@ Use the `barista --help` command for more detailed task information.
 ## Installing
 
 ```bash
-$ npm install -g barista-framework
+$ npm install -g barista-cli
 ```
 
-*Note: For a global install of `-g barista-framework`, OSX/Linux users may need to prefix the command with `sudo` or can setup [proper file permissions on OSX for npm](http://www.johnpapa.net/how-to-use-npm-global-without-sudo-on-osx/) to install without `sudo`. *
+*Note: For a global install of `-g barista-cli`, OSX/Linux users may need to prefix the command with `sudo` or can setup [proper file permissions on OSX for npm](http://www.johnpapa.net/how-to-use-npm-global-without-sudo-on-osx/) to install without `sudo`. *
 
 
 ## Starting the Barista Service
@@ -36,6 +36,11 @@ $ barista uninstall [service name]
 
 ```bash
 $ barista run [path]
+```
+
+## Installing a barista module
+```bash
+$ barista install [module-name]
 ```
 
 __Command-line flags/options:__
