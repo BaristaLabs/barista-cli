@@ -1,6 +1,8 @@
 ﻿Barista-Cli
 =========
 
+###*WIP...*
+
 The Barista command line utility makes it easy to start and install Barista services as well as to execute individual Barista scripts.
 
 Use the `barista --help` command for more detailed task information.
