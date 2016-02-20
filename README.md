@@ -1,7 +1,7 @@
 ﻿Barista-Cli
 =========
 
-###*WIP...*
+###*CLI tools are currently being developed the below is a rough spec of what it aims to do...*
 
 The Barista command line utility makes it easy to start and install Barista services as well as to execute individual Barista scripts.
 
